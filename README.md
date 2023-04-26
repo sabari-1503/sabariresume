@@ -5,7 +5,7 @@
 </head>
 <body style="background-color:#FCDFFF">
 </body>
-<style="font-size: 16px;font-family:Lucida">
+
 <h2 style = "color:#800000">RESUME<h2>
 <h3 style = "color:#25383C">SABARI R.L<h3>
 <br><br>
