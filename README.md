@@ -3,7 +3,12 @@
 <head>
 <title>SABARI.R.L </title>
 </head>
-<body style="background-color:blue">
+<body> 
+<style>
+  body{
+    background-color:blue;
+    }
+ </style> 
 </body>
 
 <h2 style = "color:#800000">RESUME<h2>
