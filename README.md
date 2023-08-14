@@ -9,7 +9,7 @@
 <h2 style = "color:#800000">RESUME<h2>
 <h3 style = "color:#25383C">SABARI R.L<h3>
 <br><br>
-<p> EDUCATIONAL QUALIFICATION</P>
+<p> EDUCATIONAL QUALIFICATIO</P>
 <p style="color:#9F000F;font-family:'Georgia'">I have done my schooling in Sita Devi Garodia Hindu Vidyalaya which in East tambaram. I am currently pursuing my Engineering degree in Sri Sairam Engineering college. </p>
 <br>
 <p>OBJECTIVE</p>
