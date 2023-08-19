@@ -1,42 +1,92 @@
-
+<!DOCTYPE html>
 <html>
 <head>
-<title>SABARI.R.L </title>
-</head>
-<body> 
 <style>
-  body{
-    background-color:blue;
-    }
- </style> 
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700434868.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: brightness(0.9);
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  .profile-box {
+    text-align: center;
+  }
+  .profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  .name {
+    font-size: 24px;
+    font-weight: bold;
+    color-scheme: white;
+    
+  }
+  .info-box {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .click-box {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  .profile-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #0077B5;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            font-size: 16px;
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="profile-box">
+    <img class="profile-image" src="C:\Users\91936\Downloads\IMG_20230813_123506.jpg" alt="Profile Picture">
+    <div  class="name"> Sabari RL</div>
+  </div>
+  
+  <a href="C:\Users\91936\Desktop\bla bla.html">
+    <div class="click-box">
+      Click Here
+    </div>
+  </a>
+  <a class="profile-button" href="https://www.linkedin.com/in/sabari-rl-372560257/" target="_blank">Visit LinkedIn Profile</a>
+  
+  <div class="info-box">
+    <div class="click-boxa"></div>
+    <p>Phone: 8967456734</p>
+    <p>Location: Chennai,India </p>
+    <p>Email: sabari015@gmail.com</p>
+  </div>
+</div>
+
 </body>
-
-<h2 style = "color:#800000">RESUME<h2>
-<h3 style = "color:#25383C">SABARI R.L<h3>
-<br><br>
-<p> EDUCATIONAL QUALIFICATIO</P>
-<p style="color:#9F000F;font-family:'Georgia'">I have done my schooling in Sita Devi Garodia Hindu Vidyalaya which in East tambaram. I am currently pursuing my Engineering degree in Sri Sairam Engineering college. </p>
-<br>
-<p>OBJECTIVE</p>
-<p style="color:#9F000F;font-family:'Georgia'"> I am always excited to learn new things and stuffs. I can manage any critical situation easily and handle them smoothly. Whenever a task is assigned to me , I try to give my best to complete the task. </p>
-<br>
-<h2 style="color:#990000">SKILLS</h2>
-<br>
-
-<ul type="square">
-<li> C Programming</li>
-<li> python programmming</li>
-<li> 
-Excel advanced</li>
-<li> Java programming ( basics)</li>
-<li>C++ programming (basics)</li>
-
-<li> 
-
-SQL programming</li>
-
-<li>Ethical hacking</li>
-<li>Cloud computing</li>
-
-</body>
-</html>	
+</html>
